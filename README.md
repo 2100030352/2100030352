@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bhavani</h1>
+<h1 align="left">Hi 👋, I'm Bhavani</h1>
 - 🔭 I’m currently working on **Alchemy Ethereum Developer Course**
 
 - 🌱 I’m currently learning **Programming for smart contracts**
